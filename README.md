@@ -1,1 +1,1 @@
-[![Build Status](https://app.travis-ci.com/PrincessKhanya/bootcamp-terminal-tests.svg?branch=gh-pages)](https://app.travis-ci.com/PrincessKhanya/bootcamp-terminal-tests)
+[![Build Status](https://app.travis-ci.com/PrincessKhanya/bootcamp-terminal-tests.svg?branch=main)](https://app.travis-ci.com/PrincessKhanya/bootcamp-terminal-tests)
